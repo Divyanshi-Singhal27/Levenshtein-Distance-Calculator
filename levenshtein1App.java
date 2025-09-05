@@ -117,3 +117,4 @@ public class levenshtein1App {
         sc.close();
     }
 }
+
